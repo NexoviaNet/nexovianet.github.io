@@ -51,7 +51,9 @@ This early-stage prototype is being built and tested by a solo founder — using
 - Personalized experimentation to model use cases from the inside out
 
 You can follow the development here:  
-👉 [Prototype Repository](https://github.com/NexoviaNet/nexovia-prototype)
+
+🌐 [Visit the live site](https://nexovianet.github.io)  
+🧪 [View the prototype repo](https://github.com/NexoviaNet/nexovia-prototype)
 
 ---
 
